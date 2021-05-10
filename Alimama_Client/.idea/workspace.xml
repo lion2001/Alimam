@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5cfdf0c-b896-4a0f-b3b7-18a9d883a0b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ba6OgXA1AKz3ZS4Ivyhn1ViLeB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Entity" />
+      <recent name="model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习资料\Alimama\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.logPage">
+    <configuration name="MyFrame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.client.page.MyFrame2" />
+      <module name="Alimama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.client.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contacts_beside" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.component.UI.contacts_beside" />
+      <module name="Alimama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.component.UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.client.page.logPage" />
+      <module name="Alimama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.client.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="registerPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.client.page.registerPage" />
+      <module name="Alimama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.client.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="upPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.client.page.upPanel" />
+      <module name="Alimama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.client.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.logPage" />
+        <item itemvalue="Application.registerPage" />
+        <item itemvalue="Application.contacts_beside" />
+        <item itemvalue="Application.MyFrame2" />
+        <item itemvalue="Application.upPanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5cfdf0c-b896-4a0f-b3b7-18a9d883a0b1" name="Default Changelist" comment="" />
+      <created>1588857826157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588857826157</updated>
+      <workItem from="1588857831010" duration="3709000" />
+      <workItem from="1588901178059" duration="2304000" />
+      <workItem from="1588918824548" duration="7452000" />
+      <workItem from="1588926925348" duration="12319000" />
+      <workItem from="1588990896539" duration="25151000" />
+      <workItem from="1589414676189" duration="26028000" />
+      <workItem from="1589508873059" duration="22340000" />
+      <workItem from="1589763538647" duration="4086000" />
+      <workItem from="1589854841952" duration="1745000" />
+      <workItem from="1589868504649" duration="53000" />
+      <workItem from="1589946412812" duration="10727000" />
+      <workItem from="1590031779589" duration="2492000" />
+      <workItem from="1590107074650" duration="1368000" />
+      <workItem from="1590108946773" duration="441000" />
+      <workItem from="1590109395187" duration="8707000" />
+      <workItem from="1590119581840" duration="282000" />
+      <workItem from="1590120298386" duration="12848000" />
+      <workItem from="1590138202777" duration="15100000" />
+      <workItem from="1590487660545" duration="31000" />
+      <workItem from="1590541202661" duration="6188000" />
+      <workItem from="1590581219784" duration="763000" />
+      <workItem from="1590802587160" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
